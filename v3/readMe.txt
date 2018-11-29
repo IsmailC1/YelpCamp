@@ -10,5 +10,5 @@
 // -->   chmod a+x mongod
 // and finely --> ./mongod
 SECONDLY!!
-//after that ... this one code should be typed for running moongoose :)
+//after that ... this code should be typed for running moongoose :)
 // -->   npm install mongoose@5.1.7 --save
