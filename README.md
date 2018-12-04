@@ -10,5 +10,5 @@ After finishing this course I feel myself comfortable enough to build a web appl
 above without refering to their definitions even though I had to do it in the very beginning.
 [by the way... I am still doing it :) ]
 
-Thank You Colt for such the beautifull Application !!!
+Thank You Colt for such the beautiful Application !!!
 You are the best!!
