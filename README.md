@@ -11,7 +11,7 @@ above without refering to their definitions even though I had to do it in the ve
 
 [by the way... I am still doing it :) ]
 
-Thank You Colt for such a beautiful Course !!!
+Thank You Colt for such a beautiful course !!!
 You are the best!!
 
 Project:
